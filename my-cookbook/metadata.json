@@ -1,0 +1,45 @@
+{
+  "name": "my-cookbook",
+  "description": "Installs/Configures my-cookbook",
+  "long_description": "Installs/Configures my-cookbook",
+  "maintainer": "Danglv",
+  "maintainer_email": "danglv10688@gmail.com",
+  "license": "All Rights Reserved",
+  "platforms": {
+  },
+  "dependencies": {
+    "opsworks_ruby": "= 1.4.0",
+    "packages": "~> 1.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0",
+  "source_url": "",
+  "issues_url": "",
+  "privacy": false,
+  "chef_versions": [
+    [
+      ">= 12.1"
+    ]
+  ],
+  "ohai_versions": [
+
+  ],
+  "gems": [
+
+  ]
+}
